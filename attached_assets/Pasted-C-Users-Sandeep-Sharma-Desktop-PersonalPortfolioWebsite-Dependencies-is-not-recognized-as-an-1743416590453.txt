@@ -1,0 +1,75 @@
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite># Dependencies
+'#' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite>/node_modules
+'/node_modules' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite>/.pnp
+'/.pnp' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite>.pnp.js
+'.pnp.js' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite>
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite># Testing
+'#' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite>/coverage
+'/coverage' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite>
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite># Production
+'#' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite>/build
+'/build' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite>/dist
+'/dist' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite>
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite># Misc
+'#' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite>.DS_Store
+'.DS_Store' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite>.env.local
+'.env.local' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite>.env.development.local
+'.env.development.local' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite>.env.test.local
+'.env.test.local' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite>.env.production.local
+'.env.production.local' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite>
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite>npm-debug.log*
+'npm-debug.log*' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite>yarn-debug.log*
+'yarn-debug.log*' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sandeep Sharma\Desktop\PersonalPortfolioWebsite>yarn-error.log*
+'yarn-error.log*' is not recognized as an internal or external command,
+operable program or batch file.
